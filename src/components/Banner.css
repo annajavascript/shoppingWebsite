@@ -1,0 +1,21 @@
+.offer_box{
+    
+    margin-top: '64px';
+}
+
+@media (max-width:786px) {
+    .offer_slider {
+
+        display: none;
+    }
+}
+
+@media (min-width: 789px){
+    .offer_box{
+        display: none;
+    }
+}
+
+.rcs_buttonWrapper {
+	z-index: 1;
+}

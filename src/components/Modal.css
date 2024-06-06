@@ -1,0 +1,22 @@
+.modal-reviews {
+    margin: 10px 0;
+  }
+  
+  .modal-price {
+    margin: 10px 0;
+  }
+  
+  .price {
+    display: flex;
+    align-items: center;
+  }
+  
+  .price del {
+    margin-right: 10px;
+  }
+  
+  .modal-img {
+    max-width: 100%;
+    height: auto;
+  }
+  
